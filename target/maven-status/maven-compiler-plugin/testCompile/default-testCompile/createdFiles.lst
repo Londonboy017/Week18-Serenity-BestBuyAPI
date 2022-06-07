@@ -1,0 +1,8 @@
+ui\swagger\crudtests\ServicesCRUDTest.class
+ui\swagger\cucumber\stepsinfo\CucumberRunner.class
+ui\swagger\crudtests\CategoriesCRUDTest.class
+ui\swagger\crudtests\StoresCRUDTest.class
+ui\swagger\crudtests\UtilitiesCRUDTest.class
+ui\swagger\cucumber\stepsinfo\ProductsStepdef.class
+ui\swagger\testbase\TestBase.class
+ui\swagger\crudtests\productsCRUDTest.class

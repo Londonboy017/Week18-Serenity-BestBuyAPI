@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services CRUD test","This test will create a New Service","SUCCESS","2022-06-21T21:11:18.668+01:00[Europe/London]","0.0","6.85"
+"Services CRUD test","This test will Verify if the services was added to the application","SUCCESS","2022-06-21T21:11:25.540+01:00[Europe/London]","0.0","0.1"
+"Services CRUD test","This test will Update the Services information","SUCCESS","2022-06-21T21:11:25.647+01:00[Europe/London]","0.0","0.17"
+"Services CRUD test","This test will Delete the service by ID","SUCCESS","2022-06-21T21:11:25.821+01:00[Europe/London]","0.0","1.45"

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Utilities CRUD test","This test will Get the version of Application","SUCCESS","2022-06-21T21:11:28.460+01:00[Europe/London]","0.0","0.06"
+"Utilities CRUD test","This test will Get the Health check of Application","SUCCESS","2022-06-21T21:11:28.520+01:00[Europe/London]","0.0","0.11"

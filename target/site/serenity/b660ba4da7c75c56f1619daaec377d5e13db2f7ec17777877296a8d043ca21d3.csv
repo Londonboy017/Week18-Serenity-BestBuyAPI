@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CRUD test","This test will create a New Store","SUCCESS","2022-06-21T21:11:29.026+01:00[Europe/London]","0.0","0.09"
+"Stores CRUD test","This test will verify if the Store was added to the application","SUCCESS","2022-06-21T21:11:29.114+01:00[Europe/London]","0.0","0.03"
+"Stores CRUD test","This test will Update the services information","SUCCESS","2022-06-21T21:11:29.147+01:00[Europe/London]","0.0","0.06"
+"Stores CRUD test","This test will Delete the services by ID","SUCCESS","2022-06-21T21:11:29.204+01:00[Europe/London]","0.0","0.08"
