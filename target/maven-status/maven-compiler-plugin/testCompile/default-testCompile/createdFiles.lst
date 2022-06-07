@@ -1,0 +1,6 @@
+ui\swagger\crudtests\ServicesCRUDTest.class
+ui\swagger\crudtests\productsCRUDTest.class
+ui\swagger\crudtests\CategoriesCRUDTest.class
+ui\swagger\crudtests\StoresCRUDTest.class
+ui\swagger\crudtests\UtilitiesCRUDTest.class
+ui\swagger\testbase\TestBase.class
